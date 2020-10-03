@@ -1,0 +1,42 @@
+.Firstpart
+{   
+    height: 30%;  
+    width: 100%;
+    box-shadow:5px 5px 18px black;
+    font-size: 30px;
+    font: black;
+    margin:1px ;
+}
+
+.header
+{
+    float: none;
+    border-radius:10;
+    box-shadow: 5px 5px blanchedalmond; 
+}
+
+.nameteller{
+    margin-top: 30px;
+    box-shadow: 5px 5px 5px rgb(189, 113, 26);
+}
+
+.copy_right_footer{
+    width: 100%;
+    line-height: 2;
+    color: black;
+    position: fixed;
+    box-shadow: 0px 20px 5px 1px blue inset;
+    bottom: 0;
+    text-align: center;
+    font-size: 20px;
+    font-family: 'cursive';
+
+}
+
+canvas{
+    border-radius: 10px;
+    margin-top: 150px;
+    border: 2px solid darkred;
+    box-shadow: 5px 5px 5px darkblue ;
+}
+
